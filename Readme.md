@@ -30,4 +30,17 @@
     <li>To delete a question :- http://localhost:8000/question/delete/:QuesID </li><br>
     </ul>
 
+<h3>Screenshots of Project</h3>
+
+![Screenshot (198)](https://user-images.githubusercontent.com/130235683/236643577-53dcf7c0-0e74-47ed-95ba-f5c50e31d145.png)
+
+![Screenshot (199)](https://user-images.githubusercontent.com/130235683/236643580-f5133952-5b59-43bc-b90f-580c43bc0985.png)
+
+![Screenshot (200)](https://user-images.githubusercontent.com/130235683/236643581-00fb6a92-b2a2-40f2-8728-6f2908b769c7.png)
+
+![Screenshot (201)](https://user-images.githubusercontent.com/130235683/236643583-613502a1-c1f1-4a36-a19c-87656f291176.png)
+
+![Screenshot (202)](https://user-images.githubusercontent.com/130235683/236643586-8aebb59e-8250-4ccc-a8f9-f3882cb55328.png)
+
+![Screenshot (203)](https://user-images.githubusercontent.com/130235683/236643591-f036b83c-2731-4fdb-86cf-e5e362a0a140.png)
 
